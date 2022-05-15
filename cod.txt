@@ -1,1 +1,5 @@
 second setion
+front end
+git config --global user.email "ayahhesham0@gmail.com"
+git config --global user.username "AyahHesham"
+
